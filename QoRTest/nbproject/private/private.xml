@@ -3,12 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Grad%20School/CS%205360%200001%20Randomized%20Algorithms/Final%20project/QoRTest/src/qortest/QoRTest.java</file>
-            <file>file:/D:/Grad%20School/CS%205360%200001%20Randomized%20Algorithms/Final%20project/QoRTest/src/qortest/Packet.java</file>
-            <file>jar:file:/D:/Grad%20School/CS%205360%200001%20Randomized%20Algorithms/Final%20project/QoRTest/lib/algs4.jar!/edu/princeton/cs/algs4/In.java</file>
-            <file>jar:file:/D:/Grad%20School/CS%205360%200001%20Randomized%20Algorithms/Final%20project/QoRTest/lib/algs4.jar!/edu/princeton/cs/algs4/DepthFirstPaths.java</file>
-            <file>file:/D:/Grad%20School/CS%205360%200001%20Randomized%20Algorithms/Final%20project/QoRTest/src/qortest/Network.java</file>
-            <file>jar:file:/D:/Grad%20School/CS%205360%200001%20Randomized%20Algorithms/Final%20project/QoRTest/lib/algs4.jar!/edu/princeton/cs/algs4/EdgeWeightedGraph.java</file>
+            <file>file:/D:/Grad%20School/CS%205360%200001%20Randomized%20Algorithms/Final%20project/Randomization-for-QoR/QoRTest/src/main/qortest/Network.java</file>
+            <file>file:/D:/Grad%20School/CS%205360%200001%20Randomized%20Algorithms/Final%20project/Randomization-for-QoR/QoRTest/src/main/qortest/Packet.java</file>
+            <file>file:/D:/Grad%20School/CS%205360%200001%20Randomized%20Algorithms/Final%20project/Randomization-for-QoR/QoRTest/src/main/qortest/QoRTest.java</file>
         </group>
     </open-files>
 </project-private>
